@@ -9,7 +9,8 @@ public class sumofArray {
 	
 		  int x=45;
 			int y=62;
-			int l = x+y;
+			int h=25;
+			int l = x+y+h;
 			System.out.println(l);
 		}
 
